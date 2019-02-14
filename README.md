@@ -1,1 +1,1 @@
-# is-cestovna-kancelaria
+# IS-Cestovnej-kancelarie
